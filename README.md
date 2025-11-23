@@ -87,15 +87,7 @@ Data-Warehouse-LLM-Benchmark/
 ├── 📄 README.md
 │
 ├── 📁 docs/
-│   ├── Rapport_Projet_DW.pdf           # Complete project report (French)
-│   └── screenshots/
-│       ├── star_schema.png
-│       ├── ssis_staging.png
-│       ├── ssis_dim_model.png
-│       ├── ssis_dim_benchmark.png
-│       ├── ssis_fact_benchmark.png
-│       ├── ssis_fact_model.png
-│       └── dashboard_powerbi.png
+│   └── Rapport_Projet_DW.pdf           # Complete project report (French)
 │
 ├── 📁 SQL/
 │   ├── 01_create_database.sql
